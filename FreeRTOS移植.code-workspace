@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "name": "stm32-free-rtos-1",
+            "path": "../../../../git/my gitee code/stm32-free-rtos-1"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "main.h": "c",
+            "tim.h": "c",
+            "time.h": "c"
+        }
+    },
+    "extensions": {}
+}
